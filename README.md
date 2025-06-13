@@ -1,5 +1,4 @@
 
-````markdown
 📝 Personal Task Manager App (Flutter + Firebase + Riverpod)
 
 A personal task management mobile application built with Flutter, using Firebase Authentication,*Cloud Firestore, and Riverpod for state management. Designed following the MVC architecture with clean separation of UI, controllers, and services.
@@ -39,9 +38,9 @@ A personal task management mobile application built with Flutter, using Firebase
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
-```bash
+```
 lib/
 ├── models/
 │   └── task_model.dart
@@ -70,11 +69,11 @@ lib/
 │   └── validators.dart
 └── main.dart
 ````
+---
 
+🔧 Getting Started
 
- 🔧 Getting Started
-
- ✅ Prerequisites
+✅ Prerequisites
 
 * Flutter SDK (>=3.10)
 * Firebase account ([https://console.firebase.google.com](https://console.firebase.google.com))
@@ -82,10 +81,10 @@ lib/
 
 ---
 
-## 🛠️ Firebase Setup
+🛠️ Firebase Setup
 
 1. Go to [Firebase Console](https://console.firebase.google.com/) and create a new project.
-2. Enable **Authentication**:
+2. Enable **Authentication:
 
    * Go to **Build → Authentication**
    * Enable **Email/Password** sign-in
