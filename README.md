@@ -1,6 +1,3 @@
-Here's a **complete `README.md` file** for your Flutter Personal Task Manager app with **Firebase, Riverpod, and MVC structure**, including setup instructions, features, and running the project.
-
----
 
 ````markdown
 # 📝 Personal Task Manager App (Flutter + Firebase + Riverpod)
