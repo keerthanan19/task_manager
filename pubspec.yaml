@@ -40,6 +40,8 @@ dependencies:
   flutter_riverpod: ^2.4.9
   intl: ^0.18.1 # For date formatting
   go_router: ^15.2.0
+  fluttertoast: ^8.2.2
+  flutter_slidable: ^3.0.0
 
 dev_dependencies:
   flutter_test:
