@@ -1,44 +1,44 @@
 
-📝 Personal Task Manager App (Flutter + Firebase + Riverpod)
+## 📝 Personal Task Manager App (Flutter + Firebase + Riverpod)
 
 A personal task management mobile application built with Flutter, using Firebase Authentication,*Cloud Firestore, and Riverpod for state management. Designed following the MVC architecture with clean separation of UI, controllers, and services.
 
 
-🚀 Features
+## 🚀 Features
 
-🔐 Authentication
- Email/Password sign-in
- Registration with form validation
- Auto-login for authenticated users
+## 🔐 Authentication
+ * Email/Password sign-in
+ * Registration with form validation
+ * Auto-login for authenticated users
 
-📋 Task Management
- Create, update, and delete tasks
- Add description, due date, category, and priority
- Mark tasks as complete or pending
+## 📋 Task Management
+ * Create, update, and delete tasks
+ * Add description, due date, category, and priority
+ * Mark tasks as complete or pending
  Real-time sync with Firestore
 
-🧠 Task Enhancements
- Filter: All | Pending | Completed
- Search tasks by title
- Priority levels: High, Medium, Low (with color coding)
- Task category tagging
- Sort tasks by due date or priority
+## 🧠 Task Enhancements
+ * Filter: All | Pending | Completed
+ * Search tasks by title
+ * Priority levels: High, Medium, Low (with color coding)
+ * Task category tagging
+ * Sort tasks by due date or priority
 
-🎨 UI/UX
- Responsive design for all screen sizes
- Basic animations and transitions
- Custom Material Design styling
+## 🎨 UI/UX
+ * Responsive design for all screen sizes
+ * Basic animations and transitions
+ * Custom Material Design styling
 
-⚙️ Architecture & Tech Stack
- Flutter with Dart
- MVC architecture
- Riverpod for state management
- Firebase (Auth + Firestore)
- Clean and modular codebase
+## ⚙️ Architecture & Tech Stack
+ * Flutter with Dart
+ * MVC architecture
+ * Riverpod for state management
+ * Firebase (Auth + Firestore)
+ * Clean and modular codebase
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 lib/
@@ -73,7 +73,7 @@ lib/
 
 🔧 Getting Started
 
-✅ Prerequisites
+## ✅ Prerequisites
 
 * Flutter SDK (>=3.10)
 * Firebase account ([https://console.firebase.google.com](https://console.firebase.google.com))
@@ -81,7 +81,7 @@ lib/
 
 ---
 
-🛠️ Firebase Setup
+## 🛠️ Firebase Setup
 
 1. Go to [Firebase Console](https://console.firebase.google.com/) and create a new project.
 2. Enable **Authentication:
