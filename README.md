@@ -146,12 +146,6 @@ flutter test
 
 ---
 
-## 📽️ Demo
-
-Screen recording (to be added):
-📹 `assets/demo_video.mp4` or provide a link to YouTube/Drive
-
----
 
 ## 🧑‍💻 Author
 
